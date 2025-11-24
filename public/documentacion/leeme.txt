@@ -1,0 +1,8 @@
+Hola este documuento comprende la idea base del proyecto 06/08/2025 
+
+Soy Mp el creador de esta aplicacion web, La principal necesidad que me gustaria resolver es crear un entorno web 
+en el que las personas puedan criticar un lugar, producto, empresa.
+
+Esta aplicicacion la disarrollare pricipalmente en html y js y algo de css.
+
+Adios.
