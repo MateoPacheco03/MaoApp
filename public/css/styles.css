@@ -30,10 +30,11 @@ footer {
     text-align: center;
     justify-content: center;
     font-size: 4vh;
+    font-family: stac;
 }
 
 .logoMaoHome {
-    width: 20vh;
+    width: 8vh;
     left: 50%;
     right: 50%;
     position: absolute;
