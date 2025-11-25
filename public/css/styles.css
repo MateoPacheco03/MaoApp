@@ -1,0 +1,40 @@
+nav {
+    text-align: center;
+    background-color: cadetblue;
+    width: 100%;
+}
+
+li {
+    list-style: none;
+}
+
+body {
+    background-color: lightcoral;
+    color: white;
+    margin-left: 2vh;
+    margin-right: 2vh;
+}
+
+footer {
+    padding: 3vh;
+    background-color: brown;
+    width: 100%;
+    margin-left: -2vh;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+}
+
+.tituloPrincipal {
+    color: black;
+    text-align: center;
+    justify-content: center;
+    font-size: 4vh;
+}
+
+.logoMaoHome {
+    width: 20vh;
+    left: 50%;
+    right: 50%;
+    position: absolute;
+}
